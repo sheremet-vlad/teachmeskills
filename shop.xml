@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>
+<shop>
+    <oficce>
+        <name id="1" color="sdv" sjvdfbvfhvbh="">Офис 1</name>
+        <stores>
+            <store>
+                <name>Склад 1</name>
+            </store>
+            <store>
+                <name>Склад 2</name>
+            </store>
+        </stores>
+    </oficce>
+</shop>
